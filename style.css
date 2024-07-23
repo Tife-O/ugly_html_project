@@ -1,0 +1,54 @@
+body{
+    background-color: black;
+    text-align: center;
+    font-family: Courier;
+    color: white;
+
+}
+h1{
+    padding: 10px;
+    background-color: #30549c;
+    text-align: center;
+    font-family: Courier;
+    color: #fac80e;
+}
+h2 {
+    background-color: black;
+    text-align: left;
+}
+
+.list{
+    text-align: left;
+}
+
+#bulbasaur_container{
+    border: 3px solid yellow;
+    padding: 30px;
+    margin: 42px;
+    background-color: #90c48c;
+    text-align: left;
+    border-radius: 20px;
+}
+
+#charmander_container{
+    border: 3px solid yellow;
+    padding: 30px;
+    margin: 42px;
+    background-color: #f8b484;
+    text-align: left;
+    border-radius: 20px;
+}
+
+#squirtle_container{
+    border: 3px solid yellow;
+    padding: 30px;
+    margin: 42px;
+    background-color: #90c4cc;
+    text-align: left;
+    border-radius: 20px;
+}
+
+footer{
+    text-align: left;
+    font-size: 15px;
+}
